@@ -1,2 +1,2 @@
-# calculater
-a  python calculater gui program
+# dictonary
+a  python dictionary gui program
